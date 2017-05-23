@@ -191,9 +191,18 @@
 		"oAP": "\/docs\/index.html",
 		"oF": 0
 		},
+	"\/js\/airtable.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/docs\/js\/airtable.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"\/js\/jquery.js": {
 		"ft": 64,
-		"mi": 1,
+		"mi": 0,
 		"oA": 1,
 		"oAP": "\/docs\/js\/jquery.js",
 		"oF": 0,
@@ -202,7 +211,7 @@
 		},
 	"\/js\/scripts.js": {
 		"ft": 64,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "\/docs\/js\/scripts.js",
 		"oF": 0,
@@ -211,7 +220,7 @@
 		},
 	"\/js\/semantic.js": {
 		"ft": 64,
-		"mi": 1,
+		"mi": 0,
 		"oA": 1,
 		"oAP": "\/docs\/js\/semantic.js",
 		"oF": 0,
@@ -233,10 +242,10 @@
 	},
 "projectAttributes": {
 	"creationDate": 513040678,
-	"displayValue": "web-3-starter-master",
+	"displayValue": "office-hours",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 516656689
+	"lastBuiltDate": 517270838
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2006,7 +2015,7 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
-		"minifyOutput": 1,
+		"minifyOutput": 0,
 		"syntaxCheckerStyle": 0,
 		"transpilerStyle": 0
 		},
